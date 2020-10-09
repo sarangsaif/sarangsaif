@@ -29,7 +29,7 @@
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-illustrator-2522532-2132720.png" />
 <img align="left" alt="XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
 
-<img align="left" alt="Wordpress" width="26px" src="https://pngimg.com/uploads/wordpress/wordpress_PNG26.png"
+<img align="left" alt="Wordpress" width="26px" src="https://pngimg.com/uploads/wordpress/wordpress_PNG26.png">
 
 <br />
 <br />
