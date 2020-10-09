@@ -15,6 +15,14 @@
 
 <br />
 
+### My Website, Resume and Portfolio:
+
+[<img align="left" alt="SarangSaif | Website" src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" />][website]
+[<img align="left" alt="SarangSaif | Instagram" src="https://img.shields.io/badge/profile-%23E4405F.svg?&style=for-the-badge&logo=profile&logoColor=white" />][Resume]
+[<img align="left" alt="SarangSaif | portfolio" src="https://img.shields.io/badge/work-blue?&style=for-the-badge&logo=work&logoColor=white" />][portfolio]
+
+<br />
+
 ### Languages & Softwares:
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -66,6 +74,8 @@
 
 
 [website]: https://shaxad.netlify.app/
+[portfolio]: https://coroflot.com/sarang
+[resume]: https://jobee.pk/profile/sarangsaif
 [twitter]: https://twitter.com/Shexadd
 [facebook]: https://facebook.com/sarang.saif.77
 [linkedin]: https://www.linkedin.com/in/sarangsaifjokhio/
