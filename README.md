@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages:
+### Languages & Softwares:
 
 <img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
@@ -28,6 +28,8 @@
 <img align="left" alt="Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/788px-Adobe_Photoshop_CC_icon.svg.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/adobe-illustrator-2522532-2132720.png" />
 <img align="left" alt="XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
+
+<img align="left" alt="Wordpress" width="26px" src="https://pngimg.com/uploads/wordpress/wordpress_PNG26.png"
 
 <br />
 <br />
