@@ -10,6 +10,8 @@
 
 [<img align="left" alt="SarangSaif | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="SarangSaif | Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="SarangSaif | Facebook" src="https://img.shields.io/badge/Facebook-blue?&style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="SarangSaif | Linkedin" src="https://img.shields.io/badge/linkedin-yellow?&style=for-the-badge&logo=linkedin&logoColor=white />][linkedin]
 
 <br />
 
@@ -65,5 +67,7 @@
 
 [website]: https://shaxad.netlify.app/
 [twitter]: https://twitter.com/Shexadd
+[facebook]: https://facebook.com/sarang.saif.77
+[linkedin]: https://www.linkedin.com/in/sarangsaifjokhio/
 [instagram]: https://instagram.com/Shexadd
 [coffee]: https://www.buymeacoffee.com/Shexadd
