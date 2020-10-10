@@ -130,7 +130,7 @@
 													<i class="lni lni-calendar"></i>
 												</div>
 												<div class="about-desc-info-desc">
-													<span>19</span>
+													<span id="age">19</span>
 												</div>
 											</div>
 										</div>
@@ -928,6 +928,38 @@
 
 
 	<!-- JAVASCRIPTS -->
+
+	<script type="text/javascript">
+		var d = new Date();
+		  var n = d.getFullYear();
+		  document.getElementById("year").innerHTML = n;
+		
+		  function dateDiff(dateold, datenew)
+		  {
+			var ynew = datenew.getFullYear();
+			var mnew = datenew.getMonth();
+			var dnew = datenew.getDate();
+			var yold = dateold.getFullYear();
+			var mold = dateold.getMonth();
+			var dold = dateold.getDate();
+			var diff = ynew - yold;
+			if(mold > mnew) diff--;
+			else
+			{
+			if(mold == mnew)
+			{
+			  if(dold > dnew) diff--;
+			}
+		  }
+		  return diff;
+		}
+		
+		  var today = new Date();
+		  var bday = new Date("2001-03-12");
+		  var age = dateDiff(bday, today);
+		  document.getElementById("age").innerHTML = age;
+		
+		</script>
 
 	<script src="assets/js/vendor.js"></script>
 	<script src="assets/js/jquery.pagepiling.min.js"></script>
