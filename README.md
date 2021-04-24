@@ -14,9 +14,9 @@
 [<img align="left" alt="SarangSaif | Linkedin" src="https://img.shields.io/badge/linkedin-yellow?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 <br />
-[<img align="left" alt="SarangSaif | Website" src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" />][website]
-[<img align="left" alt="SarangSaif | Instagram" src="https://img.shields.io/badge/Resume-%9400D3.svg?&style=for-the-badge&logo=Resume&logoColor=white" />][Resume]
-[<img align="left" alt="SarangSaif | portfolio" src="https://img.shields.io/badge/Portfolio-blue?&style=for-the-badge&logo=work&logoColor=white" />][portfolio]
+[<img align="left" alt="SarangSaif | Website" src="https://img.shields.io/badge/website-%231DA1F2.svg?&style=for-the-badge&logo=website&logoColor=white" />]
+[<img align="left" alt="SarangSaif | Instagram" src="https://img.shields.io/badge/Resume-%9400D3.svg?&style=for-the-badge&logo=Resume&logoColor=white" />]
+[<img align="left" alt="SarangSaif | portfolio" src="https://img.shields.io/badge/Portfolio-blue?&style=for-the-badge&logo=work&logoColor=white" />
 
 <br />
 
